@@ -1,6 +1,6 @@
 
 ##### Supports Multiple Formats & Players
-<img src="/images/greateGame.gif" width=300>
+<img src="/images/createGame.gif" width=300>
 
 ##### Track How Damage Is Dealt 
 <img src="/images/dealDamage.gif" width=300>
