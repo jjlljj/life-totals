@@ -6,7 +6,7 @@
 <img src="/images/dealDamage.gif" width=300>
 
 ##### Deal Damage Across Multiple Sources
-<img src="/images/gameLog.gif" width=300>
+<img src="/images/commanderDamage.gif" width=300>
 
 
 ##### View History Of In Game Actions
