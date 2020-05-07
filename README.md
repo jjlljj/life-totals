@@ -1,18 +1,18 @@
 
 ##### Supports Multiple Formats & Players
-![Multiple Players](/images/createGame.gif)
+<img src="/images/greateGame.gif" width=300>
 
 ##### Track How Damage Is Dealt 
-![Deal Damage](/images/dealDamage.gif)
+<img src="/images/dealDamage.gif" width=300>
 
 ##### Deal Damage Across Multiple Sources
-![Multiple Players](/images/gameLog.gif)
+<img src="/images/gameLog.gif" width=300>
 
 
 ##### View History Of In Game Actions
-![Multiple Players](/images/gameLog.gif)
+<img src="/images/gameLog.gif" width=300>
 
 ##### Keep Score Of Wins and Losses Over Time
-![Multiple Players](/images/stats.gif)
+<img src="/images/stats.gif" width=300>
 
 
