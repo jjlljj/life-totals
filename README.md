@@ -4,7 +4,7 @@ The first ever MTG life counter app to track your wins and losses across differe
 
 See who your biggest rival is among your playgroups with automatically created profiles. Keep track of how you've been playing with up-to-date stats for each format. Know which of your decks are top performers and which ones you have a hard time defeating. Do away with the pen & paper!
 
-Available in the [Google Play Store](https://play.google.com/store/apps/details?id=com.lifetotals) 
+Available for download on Android in the [Google Play Store](https://play.google.com/store/apps/details?id=com.lifetotals) 
 
 Coming soon to the iOS App Store
 
